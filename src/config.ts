@@ -4,8 +4,8 @@ const WEBSITE_SORTS: WebsiteSort[] = [
     title: "示例分类1",
     sites: [
       {
-        title: "主标题",
-        url: "http://www.your-web-page.com/",
+        title: "主站",
+        url: "https://jigujigu.fun/",
         icon: "",
         color: "#0171CD",
       },
@@ -39,9 +39,9 @@ const WEBSITE_SORTS: WebsiteSort[] = [
     title: "友情链接",
     sites: [
       {
-        title: "EsunR Blog",
-        description: "EsunR 的博客",
-        url: "https://www.esunr.xyz",
+        title: "Gcola Blog",
+        description: "Gcola 的博客",
+        url: "https://gcola.xyz",
         icon: "https://esunr-image-bed.oss-cn-beijing.aliyuncs.com/logo.jpg",
       },
     ],
@@ -55,11 +55,11 @@ const GLOBAL_CONFIG = {
   /**
    * 博客名称
    */
-  BLOG_NAME: "EsunR-Blog",
+  BLOG_NAME: "Gcola-Blog",
   /**
    * 个人博客链接
    */
-  BLOG_URL: "https://blog.esunr.xyz",
+  BLOG_URL: "https://blog.jigujigu.fun",
   /**
    * 指定中心 LOGO 图片地址
    */
@@ -67,7 +67,7 @@ const GLOBAL_CONFIG = {
   /**
    * 个人 Github 链接
    */
-  GITHUB_URL: "https://github.com/EsunR",
+  GITHUB_URL: "https://github.com/tenshand",
   /**
    * 背景图片地址
    */
@@ -75,8 +75,8 @@ const GLOBAL_CONFIG = {
   /**
    * ICP 备案号，留空不显示
    */
-  ICP: "京ICP证000001号",
-  ICP_URL: "https://beian.miit.gov.cn/",
+  ICP: "",
+  ICP_URL: "",
   FOOTER_INFO: true,
   /**
    * 网站欢迎标语
